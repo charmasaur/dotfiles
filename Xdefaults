@@ -1,0 +1,9 @@
+urxvt*color12: RoyalBlue
+urxvt*scrollBar: false
+urxvt*background: black
+urxvt*foreground: white
+urxvt.perl-ext-common: default,matcher
+urxvt*url-launcher: /usr/bin/chromium
+urxvt*matcher.button: 3
+urxvt.matcher.pattern.1: \\bwww\\.[\\w-]\\.[\\w./?&@#-]*[\\w/-]
+
