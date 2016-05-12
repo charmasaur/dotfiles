@@ -34,6 +34,8 @@ nnoremap <C-l> <C-w>l
 
 nnoremap <leader>s /\. [A-Z]<CR>
 
+set colorcolumn=100
+
 " Searching stuff
 set incsearch
 
