@@ -16,5 +16,9 @@ export ANDROID_HOME=/home/harry/Downloads/android-sdk-linux
 
 alias sbrc="source /home/harry/.bashrc"
 
-# adb
+# New shell in the same directory.
+alias ns="urxvt &"
+
+# Helpful adb aliases.
 alias slist="adb devices -l"
+alias aks="adb kill-server"
