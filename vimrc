@@ -20,6 +20,7 @@ set autoindent
 set cindent
 colorscheme desert
 set relativenumber
+set hidden
  
 let mapleader="\<Space>"
 nnoremap <leader>ev :vsplit $MYVIMRC<CR>
