@@ -46,3 +46,5 @@ nnoremap <leader>g :CtrlPBuffer<CR>
 
 " Bib stuff
 nnoremap <leader>gc ?@<CR>/{<CR>lv/,<CR>hy
+
+set pastetoggle=<F10>
