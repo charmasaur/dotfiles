@@ -41,7 +41,7 @@ set incsearch
 
 " CtrlP
 let g:ctrlp_working_path_mode = ''
-nnoremap <leader>f :CtrlPMixed<CR>
+nnoremap <leader>f :CtrlP<CR>
 nnoremap <leader>g :CtrlPBuffer<CR>
 
 " Bib stuff
